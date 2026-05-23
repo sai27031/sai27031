@@ -57,9 +57,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into clean, fu
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sai27031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sai27031&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=sai27031&cc=000&tc=00D9FF&ic=fff&bc=000" />username=sai27031&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
