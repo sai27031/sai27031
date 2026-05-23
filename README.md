@@ -1,9 +1,10 @@
 <!-- Profile Views Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sai27031&label=Profile%20Views&color=0e75b6&style=flat" alt="sai27031" />
+  <img src="https://komarev.com/ghpvc/?username=sai27031&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- SECTION A: ANIMATED HEADER -->
+---
+
 <div align="center">
 
 # 👋 Hey there, I'm Talanki Sai Sujan!
@@ -16,12 +17,12 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Full Stack Developer** who loves turning ideas into clean, functional, and beautiful web experiences. I believe in writing code that not only works — but *tells a story*.
+I'm a passionate **Full Stack Developer** who loves turning ideas into clean, functional, and beautiful web experiences.
 
-- 🚀 Currently building projects with **React**, **Node.js**, and **MongoDB**
+- 🚀 Building projects with **React**, **Node.js**, and **MongoDB**
 - 🎯 On a mission to ship production-ready apps and grow every single day
-- 🌐 Check out my work at **[portfolio-ten-gamma-97.vercel.app](https://portfolio-ten-gamma-97.vercel.app)**
-- 💬 Fun fact: I debug with `console.log` and I'm not ashamed of it 😄
+- 🌐 Portfolio: **[portfolio-ten-gamma-97.vercel.app](https://portfolio-ten-gamma-97.vercel.app)**
+- 💬 Fun fact: I debug with `console.log` and I'm not ashamed 😄
 - 🎮 When not coding — gaming or exploring new tech rabbit holes
 - ☕ Fueled by coffee & curiosity
 
@@ -53,34 +54,18 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into clean, fu
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/talanki-sai-sujan-605b63290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-ten-gamma-97.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/sai27031" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai27031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai27031&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sai27031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sai27031&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sai27031&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sai27031&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -96,30 +81,28 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into clean, fu
 
 ---
 
-## 🤝 Let's Build Something Amazing
+## 🌐 Connect With Me
 
-<div align="center">
-
-<p>I'm always open to collaborating on interesting projects and building things that matter.</p>
-
-<a href="https://www.linkedin.com/in/talanki-sai-sujan-605b63290/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://portfolio-ten-gamma-97.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-⭐ **If you like what I build, consider starring my repositories!** ⭐
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/talanki-sai-sujan-605b63290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-ten-gamma-97.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sai27031" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <br/><br/>
+  ⭐ <b>If you like what I build, consider starring my repositories!</b> ⭐
+  <br/><br/>
   <sub>Made with ❤️ by <a href="https://github.com/sai27031">Talanki Sai Sujan</a></sub>
 </div>
